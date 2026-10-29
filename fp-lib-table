@@ -1,0 +1,10 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "discrete_power") (type "KiCad") (uri "${KIPRJMOD}/libraries/discrete_power/discrete_power.pretty") (options "") (descr ""))
+	(lib (name "discrete_power") (type "KiCad") (uri "${KIPRJMOD}/libraries/discrete_power.pretty") (options "") (descr ""))
+	(lib (name "discrete_power") (type "KiCad") (uri "${KIPRJMOD}/libraries/discrete_power/discrete_power.pretty") (options "") (descr ""))
+	(lib (name "discrete_power") (type "KiCad") (uri "${KIPRJMOD}/libraries/discrete_power/discrete_power.pretty") (options "") (descr ""))
+	(lib (name "xiao") (type "KiCad") (uri "${KIPRJMOD}/libraries/xiao.pretty") (options "") (descr ""))
+	(lib (name "discrete_power") (type "KiCad") (uri "${KIPRJMOD}/libraries/discrete_power.pretty") (options "") (descr ""))
+	(lib (name "BTS7960") (type "KiCad") (uri "/home/ntoutges/Code/GBG_Motors/BTS7960.pretty") (options "") (descr ""))
+)

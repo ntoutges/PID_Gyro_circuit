@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "discrete_power") (type "KiCad") (uri "${KIPRJMOD}/libraries/discrete_power.pretty/discrete_power.kicad_sym") (options "") (descr ""))
+	(lib (name "xiao") (type "KiCad") (uri "${KIPRJMOD}/libraries/xiao.pretty/xiao.kicad_sym") (options "") (descr ""))
+)
