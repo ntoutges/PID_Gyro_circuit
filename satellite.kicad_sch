@@ -2553,16 +2553,6 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 120.65) (xy 88.9 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "02a48501-352a-490d-b7b1-9f286b9179ae")
-	)
-	(wire
-		(pts
 			(xy 88.9 123.19) (xy 88.9 125.73)
 		)
 		(stroke
@@ -2923,16 +2913,6 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 118.11) (xy 88.9 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6fbdf793-1d27-4f9c-badb-18c4aece637d")
-	)
-	(wire
-		(pts
 			(xy 124.46 53.34) (xy 133.35 53.34)
 		)
 		(stroke
@@ -2940,6 +2920,16 @@
 			(type default)
 		)
 		(uuid "71a58cc1-1b13-44ef-a91d-73fcb3d7f8e3")
+	)
+	(wire
+		(pts
+			(xy 86.36 118.11) (xy 88.9 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73338397-cddf-4a0f-a636-b8fcf317b203")
 	)
 	(wire
 		(pts
@@ -3020,6 +3010,16 @@
 			(type default)
 		)
 		(uuid "93ed75c0-928a-4b86-8d9f-9027dc0866e7")
+	)
+	(wire
+		(pts
+			(xy 86.36 120.65) (xy 88.9 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "967e872d-0b97-459e-b540-540f3135895a")
 	)
 	(wire
 		(pts
@@ -3481,7 +3481,7 @@
 	)
 	(global_label "GPIO0"
 		(shape input)
-		(at 88.9 118.11 0)
+		(at 88.9 120.65 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3491,7 +3491,7 @@
 		)
 		(uuid "4307c211-3890-4e3a-a78c-0335f65d86cb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.57 118.11 0)
+			(at 97.57 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3841,7 +3841,7 @@
 	)
 	(global_label "GPIO1"
 		(shape input)
-		(at 88.9 120.65 0)
+		(at 88.9 118.11 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3851,7 +3851,7 @@
 		)
 		(uuid "e5f91a3d-d372-45e0-968b-cd99198b17e9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.57 120.65 0)
+			(at 97.57 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
